@@ -51,6 +51,11 @@ Now open [http://localhost:3000](http://localhost:3000) in your browser to see y
 * CSS (with gradient magic)
 * Browser localStorage
 
-**About me**
+-**About me**
 
 I’m Chitranjan Singh. Feel free to check out more projects on my [GitHub profile](https://github.comchitsaindroka47)!
+
+-**Screenshots**
+![{5172F391-BCAE-4E20-8611-6664E919E634}](https://github.com/user-attachments/assets/11507fe6-8680-4ed2-ab8d-2b3e4d1f9571)
+
+
