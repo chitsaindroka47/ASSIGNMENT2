@@ -1,64 +1,56 @@
-React To-Do List App
+
+-**React To-Do List App**
+
 Hey there! This is a simple and colorful To-Do List app built with React. It helps you keep track of your tasks easily with a nice gradient background to brighten up your day.
 
-What it does
-Add tasks quickly — no empty tasks allowed!
+-**What it does**
 
-Mark tasks as done or undo them with a click.
+* Add tasks quickly — no empty tasks allowed!
+* Mark tasks as done or undo them with a click.
+* Delete tasks you’ve finished or don’t want anymore.
+* Filter your list to see all tasks, just the active ones, or only the completed ones.
+* Sort tasks alphabetically whenever you want.
+* Your tasks are saved right in your browser, so they’ll still be there even if you refresh or close the page.
+* Looks good too, thanks to a smooth colorful gradient background!
 
-Delete tasks you’ve finished or don’t want anymore.
+-**How to get it running**
 
-Filter your list to see all tasks, just the active ones, or only the completed ones.
+1. Clone the repo to your computer:
+   `git clone https://github.com/yourusername/your-repo.git`
 
-Sort tasks alphabetically whenever you want.
+2. Go inside the folder:
+   `cd your-repo`
 
-Your tasks are saved right in your browser, so they’ll still be there even if you refresh or close the page.
+3. Install all the needed packages:
+   `npm install`
 
-Looks good too, thanks to a smooth colorful gradient background!
+4. Start the app locally:
+   `npm start`
 
-How to get it running
-Clone the repo to your computer:
-git clone https://github.com/yourusername/your-repo.git
+Now open [http://localhost:3000](http://localhost:3000) in your browser to see your To-Do List!
 
-Go inside the folder:
-cd your-repo
+-**How to use it**
 
-Install all the needed packages:
-npm install
+* Type in your task and hit the **Add** button.
+* Click **Complete** next to a task to mark it done or undo it if you change your mind.
+* Click **Delete** to remove tasks you no longer want to see.
+* Use the filter buttons (All, Active, Completed) to organize your view.
+* Want to sort tasks? Just hit the **Sort** button!
+* Close your browser or refresh — your list will stay safe thanks to localStorage.
 
-Start the app locally:
-npm start
+-**What’s inside?**
 
-Now open http://localhost:3000 in your browser to see your To-Do List!
+* React components that make it all happen.
+* CSS with a beautiful gradient background.
+* localStorage to keep your tasks saved.
 
-How to use it
-Type in your task and hit the Add button.
+-**Tech stack**
 
-Click Complete next to a task to mark it done or undo it if you change your mind.
+* React
+* JavaScript
+* CSS (with gradient magic)
+* Browser localStorage
 
-Click Delete to remove tasks you no longer want to see.
+**About me**
 
-Use the filter buttons (All, Active, Completed) to organize your view.
-
-Want to sort tasks? Just hit the Sort button!
-
-Close your browser or refresh — your list will stay safe thanks to localStorage.
-
-What’s inside?
-React components that make it all happen.
-
-CSS with a beautiful gradient background.
-
-localStorage to keep your tasks saved.
-
-Tech stack
-React
-
-JavaScript
-
-CSS (with gradient magic)
-
-Browser localStorage
-
-About me
-I’m Chitranjan Singh . Feel free to check out more projects on my @chitsaindroka47!
+I’m Chitranjan Singh. Feel free to check out more projects on my [GitHub profile](https://github.comchitsaindroka47)!
